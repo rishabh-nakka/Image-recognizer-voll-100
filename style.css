@@ -1,0 +1,29 @@
+#h1{
+    font-size: large;
+    width:50%;
+}
+body{
+    background-color: aqua;
+}
+#span_1{
+    color:blue;
+    font-size: medium;
+    font-weight: bold;
+}
+#camera{
+border-style: dashed;
+border-width: 3px;
+height: 300px;
+width: 300px;
+border-color:black ;
+}
+#object_name{
+    font-size: 25px;
+}
+#accuracy{
+    font-size: 25px;
+}
+
+
+
+
